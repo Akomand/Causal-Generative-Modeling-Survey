@@ -8,6 +8,7 @@ This is the github supplement to the paper [From Identifiable Causal Representat
 
 
 ## Causal Representation Learning (CRL)
+### Observational
 1. [**CausalVAE: Disentangled Representation Learning via Neural Structural Causal Models**](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_CausalVAE_Disentangled_Representation_Learning_via_Neural_Structural_Causal_Models_CVPR_2021_paper.html),
 
      *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2021.
@@ -37,6 +38,18 @@ This is the github supplement to the paper [From Identifiable Causal Representat
       *Advances in Neural Information Processing Systems (NeurIPS)*, 2023.
 
       Nils Sturma, Chandler Squires, Mathias Drton, and Caroline Uhler.
+
+6. [**Causal Representation Learning Made Identifiable by Grouping of Observational Variables**](https://openreview.net/forum?id=SL6V527p1F&referrer=%5Bthe%20profile%20of%20Aapo%20Hyvarinen%5D(%2Fprofile%3Fid%3D~Aapo_Hyvarinen1)),
+
+      *International Conference on Machine Learning (ICML)*, 2024.
+
+      Hiroshi Morioka and Aapo Hyvarinen.
+
+### Interventional
+
+### Counterfactual
+
+
 
 ## Controllable Counterfactual Generation (CCG)
 
