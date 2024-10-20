@@ -8,21 +8,35 @@ This is the github supplement to the paper [From Identifiable Causal Representat
 
 
 ## Causal Representation Learning (CRL)
-1. [**CausalVAE: Disentangled Representation Learning via Neural Structural Causal Models**](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_CausalVAE_Disentangled_Representation_Learning_via_Neural_Structural_Causal_Models_CVPR_2021_paper.html), *CVPR*, 2021.
+1. [**CausalVAE: Disentangled Representation Learning via Neural Structural Causal Models**](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_CausalVAE_Disentangled_Representation_Learning_via_Neural_Structural_Causal_Models_CVPR_2021_paper.html),
+
+     *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2021.
 
      Mengyue Yang, Furui Liu, Zhitang Chen, Xinwei Shen, Jianye Hao, Jun Wang.
   
-2. [**Weakly Supervised Disentangled Generative Causal Representation Learning**](https://arxiv.org/abs/2010.02637), *JMLR*, 2022. 
+2. [**Weakly Supervised Disentangled Generative Causal Representation Learning**](https://arxiv.org/abs/2010.02637),
+
+      *Journal of Machine Learning Research (JMLR)*, 2022. 
 
       Xinwei Shen, Furui Liu, Hanze Dong, Qing Lian, Zhitang Chen, and Tong Zhang.
 
-3. [**SCM-VAE: Learning Identifiable Causal Representations via Structural Knowledge**](https://ieeexplore.ieee.org/document/10021114), *IEEE Big Data*, 2022. 
+3. [**SCM-VAE: Learning Identifiable Causal Representations via Structural Knowledge**](https://ieeexplore.ieee.org/document/10021114),
+
+      *IEEE International Conference on Big Data (BigData)*, 2022. 
 
       Aneesh Komanduri, Yongkai Wu, Wen Huang, Feng Chen, and Xintao Wu.
 
-4. [**Learning Causally Disentangled Representations via the Principle of Independent Causal Mechanisms**](https://arxiv.org/abs/2306.01213), *IJCAI*, 2024.
+4. [**Learning Causally Disentangled Representations via the Principle of Independent Causal Mechanisms**](https://arxiv.org/abs/2306.01213),
+
+      *International Joint Conference on Artificial Intelligence (IJCAI)*, 2024.
 
       Aneesh Komanduri, Yongkai Wu, Feng Chen, and Xintao Wu.
+
+5. [**Unpaired Multi-Domain Causal Representation Learning**](https://openreview.net/forum?id=zW1uVN6Mbv),
+
+      *Advances in Neural Information Processing Systems (NeurIPS)*, 2023.
+
+      Nils Sturma, Chandler Squires, Mathias Drton, and Caroline Uhler.
 
 ## Controllable Counterfactual Generation (CCG)
 
