@@ -19,69 +19,32 @@ url={https://openreview.net/forum?id=PUpZXvNqmb},
 
 ## Causal Representation Learning (CRL)
 ### Observational
-1. [**CausalVAE: Disentangled Representation Learning via Neural Structural Causal Models**](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_CausalVAE_Disentangled_Representation_Learning_via_Neural_Structural_Causal_Models_CVPR_2021_paper.html),
-
-     *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2021.
-
-     Mengyue Yang, Furui Liu, Zhitang Chen, Xinwei Shen, Jianye Hao, Jun Wang.
+1. **CausalVAE: Disentangled Representation Learning via Neural Structural Causal Models**, *CVPR 2021* [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_CausalVAE_Disentangled_Representation_Learning_via_Neural_Structural_Causal_Models_CVPR_2021_paper.html)]
   
-2. [**Weakly Supervised Disentangled Generative Causal Representation Learning**](https://arxiv.org/abs/2010.02637),
+2. **Weakly Supervised Disentangled Generative Causal Representation Learning**, *JMLR 2022* [[paper](https://arxiv.org/abs/2010.02637)]
 
-      *Journal of Machine Learning Research (JMLR)*, 2022. 
+3. **SCM-VAE: Learning Identifiable Causal Representations via Structural Knowledge**, *IEEE Big Data 2022* [[paper](https://ieeexplore.ieee.org/document/10021114)]
 
-      Xinwei Shen, Furui Liu, Hanze Dong, Qing Lian, Zhitang Chen, and Tong Zhang.
+4. **Learning Causally Disentangled Representations via the Principle of Independent Causal Mechanisms**, *IJCAI 2024* [[paper](https://arxiv.org/abs/2306.01213)]
 
-3. [**SCM-VAE: Learning Identifiable Causal Representations via Structural Knowledge**](https://ieeexplore.ieee.org/document/10021114),
+5. **Unpaired Multi-Domain Causal Representation Learning**, *NeurIPS 2023* [[paper](https://openreview.net/forum?id=zW1uVN6Mbv)],
 
-      *IEEE International Conference on Big Data (BigData)*, 2022. 
+6. **Causal Representation Learning Made Identifiable by Grouping of Observational Variables**, *ICML 2024* [[paper](https://openreview.net/forum?id=SL6V527p1F&referrer=%5Bthe%20profile%20of%20Aapo%20Hyvarinen%5D(%2Fprofile%3Fid%3D~Aapo_Hyvarinen1))]
 
-      Aneesh Komanduri, Yongkai Wu, Wen Huang, Feng Chen, and Xintao Wu.
+7. **Multi-View Causal Representation Learning with Partial Observability**, *ICLR 2024* [[paper](https://openreview.net/forum?id=OGtnhKQJms)]
 
-4. [**Learning Causally Disentangled Representations via the Principle of Independent Causal Mechanisms**](https://arxiv.org/abs/2306.01213),
+8. **Learning Temporally Causal Latent Processes from General Temporal Data**, *ICLR 2022* [[paper](https://openreview.net/forum?id=RDlLMjLJXdq)]
 
-      *International Joint Conference on Artificial Intelligence (IJCAI)*, 2024.
+9. **Temporally Disentangled Representation Learning**, *NeurIPS 2022* [[paper](https://openreview.net/forum?id=Vi-sZWNA_Ue)]
 
-      Aneesh Komanduri, Yongkai Wu, Feng Chen, and Xintao Wu.
-
-5. [**Unpaired Multi-Domain Causal Representation Learning**](https://openreview.net/forum?id=zW1uVN6Mbv),
-
-      *Advances in Neural Information Processing Systems (NeurIPS)*, 2023.
-
-      Nils Sturma, Chandler Squires, Mathias Drton, and Caroline Uhler.
-
-6. [**Causal Representation Learning Made Identifiable by Grouping of Observational Variables**](https://openreview.net/forum?id=SL6V527p1F&referrer=%5Bthe%20profile%20of%20Aapo%20Hyvarinen%5D(%2Fprofile%3Fid%3D~Aapo_Hyvarinen1)),
-
-      *International Conference on Machine Learning (ICML)*, 2024.
-
-      Hiroshi Morioka and Aapo Hyvarinen.
-
-7. [**Multi-View Causal Representation Learning with Partial Observability**](https://openreview.net/forum?id=OGtnhKQJms),
-
-      *International Conference on Learning Representations (ICLR)*, 2024.
-
-      Dingling Yao, Danru Xu, Sebastien Lachapelle, Sara Magliacane, Perouz Taslakian, Georg Martius, Julius von Kügelgen, and Francesco Locatello.
-
-8. [**Learning Temporally Causal Latent Processes from General Temporal Data**](https://openreview.net/forum?id=RDlLMjLJXdq),
-
-      *International Conference on Learning Representations (ICLR)*, 2022.
-
-      Weiran Yao, Yuewen Sun, Alex Ho, Changyin Sun, and Kun Zhang.
-
-9. [**Temporally Disentangled Representation Learning**](https://openreview.net/forum?id=Vi-sZWNA_Ue),
-
-      *Advances in Neural Information Processing Systems (NeurIPS)*, 2022.
-
-      Weiran Yao, Guangyi Chen, and Kun Zhang.
-
-10. [**Temporally Disentangled Representation Learning under Unknown Nonstationarity**](https://openreview.net/forum?id=V8GHCGYLkf&noteId=jgG1mMzOkD),
-
-      *Advances in Neural Information Processing Systems (NeurIPS)*, 2023.
-
-      Xiangchen Song, Weiran Yao, Yewen Fan, Xinshuai Dong, Guangyi Chen, Juan Carlos Niebles, Eric Xing, and Kun Zhang.
-
+10. **Temporally Disentangled Representation Learning under Unknown Nonstationarity**, *NeurIPS 2023* [[paper](https://openreview.net/forum?id=V8GHCGYLkf&noteId=jgG1mMzOkD)]
 
    
 ### Interventional
+1. **Interventional Causal Representation Learning**, *ICML 2023* [[paper](https://arxiv.org/abs/2209.11924)]
+
+2. 
+
 
 ### Counterfactual
 
