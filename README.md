@@ -55,6 +55,32 @@ url={https://openreview.net/forum?id=PUpZXvNqmb},
 
       Hiroshi Morioka and Aapo Hyvarinen.
 
+7. [**Multi-View Causal Representation Learning with Partial Observability**](https://openreview.net/forum?id=OGtnhKQJms),
+
+      *International Conference on Learning Representations (ICLR)*, 2024.
+
+      Dingling Yao, Danru Xu, Sebastien Lachapelle, Sara Magliacane, Perouz Taslakian, Georg Martius, Julius von Kügelgen, and Francesco Locatello.
+
+8. [**Learning Temporally Causal Latent Processes from General Temporal Data**](https://openreview.net/forum?id=RDlLMjLJXdq),
+
+      *International Conference on Learning Representations (ICLR)*, 2022.
+
+      Weiran Yao, Yuewen Sun, Alex Ho, Changyin Sun, and Kun Zhang.
+
+9. [**Temporally Disentangled Representation Learning**](https://openreview.net/forum?id=Vi-sZWNA_Ue),
+
+      *Advances in Neural Information Processing Systems (NeurIPS)*, 2022.
+
+      Weiran Yao, Guangyi Chen, and Kun Zhang.
+
+10. [**Temporally Disentangled Representation Learning under Unknown Nonstationarity**](https://openreview.net/forum?id=V8GHCGYLkf&noteId=jgG1mMzOkD),
+
+      *Advances in Neural Information Processing Systems (NeurIPS)*, 2023.
+
+      Xiangchen Song, Weiran Yao, Yewen Fan, Xinshuai Dong, Guangyi Chen, Juan Carlos Niebles, Eric Xing, and Kun Zhang.
+
+
+   
 ### Interventional
 
 ### Counterfactual
