@@ -43,13 +43,15 @@ url={https://openreview.net/forum?id=PUpZXvNqmb},
 
 12. **A Sparsity Principle for Partially Observable Causal Representation Learning**, *ICML 2024* [[paper](https://proceedings.mlr.press/v235/xu24ac.html)]
 
-13. **Learning Temporally Causal Latent Processes from General Temporal Data**, *ICLR 2022* [[paper](https://openreview.net/forum?id=RDlLMjLJXdq)]
+13. **Identifiability Guarantees for Causal Disentanglement from Purely Observational Data**, *NeurIPS 2024* [[paper]()]
 
-14. **Temporally Disentangled Representation Learning**, *NeurIPS 2022* [[paper](https://openreview.net/forum?id=Vi-sZWNA_Ue)]
+14. **Learning Temporally Causal Latent Processes from General Temporal Data**, *ICLR 2022* [[paper](https://openreview.net/forum?id=RDlLMjLJXdq)]
 
-15. **Temporally Disentangled Representation Learning under Unknown Nonstationarity**, *NeurIPS 2023* [[paper](https://openreview.net/forum?id=V8GHCGYLkf&noteId=jgG1mMzOkD)]
+15. **Temporally Disentangled Representation Learning**, *NeurIPS 2022* [[paper](https://openreview.net/forum?id=Vi-sZWNA_Ue)]
 
-16. **CaRiNG: Learning Temporal Causal Representation under Non-Invertible Generation Process**, *ICML 2024* [[paper](https://proceedings.mlr.press/v235/chen24ai.html)]
+16. **Temporally Disentangled Representation Learning under Unknown Nonstationarity**, *NeurIPS 2023* [[paper](https://openreview.net/forum?id=V8GHCGYLkf&noteId=jgG1mMzOkD)]
+
+17. **CaRiNG: Learning Temporal Causal Representation under Non-Invertible Generation Process**, *ICML 2024* [[paper](https://proceedings.mlr.press/v235/chen24ai.html)]
 
    
 ### Interventional
