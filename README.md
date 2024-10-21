@@ -113,11 +113,11 @@ url={https://openreview.net/forum?id=PUpZXvNqmb},
 
 ### Diffusion-based
 
-6. **Diffusion Causal Models for Counterfactual Estimation**, *CLeaR 2022* [[paper](https://arxiv.org/abs/2202.10166)]
+7. **Diffusion Causal Models for Counterfactual Estimation**, *CLeaR 2022* [[paper](https://arxiv.org/abs/2202.10166)]
 
-7. **Causal Diffusion Autoencoders: Toward Counterfactual Generation via Diffusion Probabilistic Models**, *ECAI 2024* [[paper](https://arxiv.org/abs/2404.17735)]*
+8. **Causal Diffusion Autoencoders: Toward Counterfactual Generation via Diffusion Probabilistic Models**, *ECAI 2024* [[paper](https://arxiv.org/abs/2404.17735)]*
 
-8. **Modeling Causal Mechanisms with Diffusion Models for Interventional and Counterfactual Queries**, arXiv [[paper](https://arxiv.org/abs/2302.00860)]
+9. **Modeling Causal Mechanisms with Diffusion Models for Interventional and Counterfactual Queries**, arXiv [[paper](https://arxiv.org/abs/2302.00860)]
 
 ## Evaluation Metrics
 
