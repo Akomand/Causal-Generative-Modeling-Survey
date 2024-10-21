@@ -108,22 +108,40 @@ url={https://openreview.net/forum?id=PUpZXvNqmb},
 
 5. **High Fidelity Image Counterfactuals with Probabilistic Causal Models**, *ICML 2023* [[paper](https://arxiv.org/abs/2306.15764)]
 
-6. **Deep Backtracking Counterfactuals for Causally Compliant Explanations**, *TMLR 2024* [[paper](https://openreview.net/forum?id=Br5esc2CXR)]*
+6. **Counterfactual Image Editing**, *ICML 2024* [[paper](https://proceedings.mlr.press/v235/pan24a.html)]*
+
+7. **Deep Backtracking Counterfactuals for Causally Compliant Explanations**, *TMLR 2024* [[paper](https://openreview.net/forum?id=Br5esc2CXR)]*
 
 
 ### Diffusion-based
 
-7. **Diffusion Causal Models for Counterfactual Estimation**, *CLeaR 2022* [[paper](https://arxiv.org/abs/2202.10166)]
+8. **Diffusion Causal Models for Counterfactual Estimation**, *CLeaR 2022* [[paper](https://arxiv.org/abs/2202.10166)]
 
-8. **Causal Diffusion Autoencoders: Toward Counterfactual Generation via Diffusion Probabilistic Models**, *ECAI 2024* [[paper](https://arxiv.org/abs/2404.17735)]*
+9. **Causal Diffusion Autoencoders: Toward Counterfactual Generation via Diffusion Probabilistic Models**, *ECAI 2024* [[paper](https://arxiv.org/abs/2404.17735)]*
 
-9. **Modeling Causal Mechanisms with Diffusion Models for Interventional and Counterfactual Queries**, arXiv [[paper](https://arxiv.org/abs/2302.00860)]
+10. **Modeling Causal Mechanisms with Diffusion Models for Interventional and Counterfactual Queries**, arXiv [[paper](https://arxiv.org/abs/2302.00860)]
 
 ## Evaluation Metrics
+### Causal Representation Learning/Disentanglement
+
+
+
+
+### Counterfactual Generation
 
 
 
 ## Datasets
+### Synthetic
+
+
+### Real-World
+
+
+### Temporal Video
+
+
+### Biological/Medical
 
 
 
