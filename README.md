@@ -19,6 +19,7 @@ url={https://openreview.net/forum?id=PUpZXvNqmb},
 
 ## Causal Representation Learning (CRL)
 ### Observational
+
 1. **CausalVAE: Disentangled Representation Learning via Neural Structural Causal Models**, *CVPR 2021* [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_CausalVAE_Disentangled_Representation_Learning_via_Neural_Structural_Causal_Models_CVPR_2021_paper.html)]
   
 2. **Weakly Supervised Disentangled Generative Causal Representation Learning**, *JMLR 2022* [[paper](https://arxiv.org/abs/2010.02637)]
@@ -55,6 +56,7 @@ url={https://openreview.net/forum?id=PUpZXvNqmb},
 
    
 ### Interventional
+
 18. **Interventional Causal Representation Learning**, *ICML 2023* [[paper](https://arxiv.org/abs/2209.11924)]
 
 19. **Linear Causal Disentanglement via Interventions**, *ICML 2023* [[paper](https://arxiv.org/abs/2211.16467)]
@@ -83,6 +85,7 @@ url={https://openreview.net/forum?id=PUpZXvNqmb},
 
 
 ### Counterfactual
+
 31. **Self-Supervised Learning with Data Augmentations Provably Isolates Content from Style**, *NeurIPS 2021* [[paper](https://arxiv.org/abs/2106.04619)]
 
 32. **Weakly supervised causal representation learning**, *NeurIPS 2022* [[paper](https://arxiv.org/abs/2203.16437)]
