@@ -17,6 +17,11 @@ url={https://openreview.net/forum?id=PUpZXvNqmb},
 
 *Note that papers marked with a * are new references that were not included in the published version of the survey.*
 
+
+## Preliminaries
+
+### Nonlinear-ICA and Disentangled Representation Learning
+
 ## Causal Representation Learning (CRL)
 ### Observational
 
