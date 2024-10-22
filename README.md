@@ -110,30 +110,32 @@ url={https://openreview.net/forum?id=PUpZXvNqmb},
 
 21. **Identifiability Guarantees for Causal Disentanglement from Soft Interventions**, *NeurIPS 2023* [[paper](https://arxiv.org/abs/2307.06250)]
 
-22. **Nonparametric Identifiability of Causal Representations from Unknown Interventions**, *NeurIPS 2023* [[paper](https://arxiv.org/abs/2306.00542)]
+22. **Causal Component Analysis**, *NeurIPS 2023* [[paper](https://arxiv.org/abs/2305.17225)]
+    
+23. **Nonparametric Identifiability of Causal Representations from Unknown Interventions**, *NeurIPS 2023* [[paper](https://arxiv.org/abs/2306.00542)]
 
-23. **Score-based Causal Representation Learning From Interventions**, *CRL@NeurIPS 2023* [[paper](https://openreview.net/forum?id=MytNJ6lXAV)]
+24. **Score-based Causal Representation Learning From Interventions**, *CRL@NeurIPS 2023* [[paper](https://openreview.net/forum?id=MytNJ6lXAV)]
 
-24. **General Identifiability and Achievability for Causal Representation Learning**, *AISTATS 2024* [[paper](https://proceedings.mlr.press/v238/varici24a.html)]
+25. **General Identifiability and Achievability for Causal Representation Learning**, *AISTATS 2024* [[paper](https://proceedings.mlr.press/v238/varici24a.html)]
 
-25. **CITRIS: Causal Identifiability for Temporal Intervened Sequences**, *ICML 2022* [[paper](https://arxiv.org/abs/2202.03169)]
+26. **CITRIS: Causal Identifiability for Temporal Intervened Sequences**, *ICML 2022* [[paper](https://arxiv.org/abs/2202.03169)]
 
-26. **Causal Representation Learning for Instantaneous and Temporal Effects in Interactive Systems**, *ICLR 2023* [[paper](https://arxiv.org/abs/2206.06169)]
+27. **Causal Representation Learning for Instantaneous and Temporal Effects in Interactive Systems**, *ICLR 2023* [[paper](https://arxiv.org/abs/2206.06169)]
 
-27. **BISCUIT: Causal Representation Learning from Binary Interactions**, *UAI 2023* [[paper](https://proceedings.mlr.press/v216/lippe23a.html)]
+28. **BISCUIT: Causal Representation Learning from Binary Interactions**, *UAI 2023* [[paper](https://proceedings.mlr.press/v216/lippe23a.html)]
 
-28. **Disentanglement via Mechanism Sparsity Regularization: A New Principle for Nonlinear ICA**, *CLeaR 2022* [[paper](https://arxiv.org/abs/2107.10098)]
+29. **Disentanglement via Mechanism Sparsity Regularization: A New Principle for Nonlinear ICA**, *CLeaR 2022* [[paper](https://arxiv.org/abs/2107.10098)]
 
-29. **Identifying Linearly-Mixed Causal Representations from Multi-Node Interventions**, *CLeaR 2024* [[paper](https://arxiv.org/abs/2311.02695)]
+30. **Identifying Linearly-Mixed Causal Representations from Multi-Node Interventions**, *CLeaR 2024* [[paper](https://arxiv.org/abs/2311.02695)]
 
-30. **Linear Causal Representation Learning from Unknown Multi-node Interventions**, *NeurIPS 2024* [[paper](https://arxiv.org/abs/2406.05937)]*
+31. **Linear Causal Representation Learning from Unknown Multi-node Interventions**, *NeurIPS 2024* [[paper](https://arxiv.org/abs/2406.05937)]*
 
 
 ### Counterfactual
 
-31. **Self-Supervised Learning with Data Augmentations Provably Isolates Content from Style**, *NeurIPS 2021* [[paper](https://arxiv.org/abs/2106.04619)]
+32. **Self-Supervised Learning with Data Augmentations Provably Isolates Content from Style**, *NeurIPS 2021* [[paper](https://arxiv.org/abs/2106.04619)]
 
-32. **Weakly supervised causal representation learning**, *NeurIPS 2022* [[paper](https://arxiv.org/abs/2203.16437)]
+33. **Weakly supervised causal representation learning**, *NeurIPS 2022* [[paper](https://arxiv.org/abs/2203.16437)]
 
 
 ## Controllable Counterfactual Generation (CCG)
@@ -186,7 +188,12 @@ url={https://openreview.net/forum?id=PUpZXvNqmb},
 
 
 ### Counterfactual Generation
+**Counterfactual Latent Divergence (CLD)**
+- **Diffusion Causal Models for Counterfactual Estimation**, *CLeaR 2022* [[paper](https://arxiv.org/abs/2202.10166)]
 
+**Axiomatic Evaluation (Composition, Reversibility, Effectiveness)**
+- **Measuring axiomatic soundness of counterfactual image models**, *ICLR 2023* [[paper](https://arxiv.org/abs/2303.01274)]
+- **Benchmarking Counterfactual Image Generation**, *NeurIPS 2024* [[paper](https://arxiv.org/abs/2403.20287)]
 
 
 ## Datasets
