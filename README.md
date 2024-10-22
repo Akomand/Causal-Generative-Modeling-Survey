@@ -20,11 +20,11 @@ url={https://openreview.net/forum?id=PUpZXvNqmb},
 
 ## Preliminaries
 ### Causality
-1. Judea Pearl. Causality. Cambridge University Press, Cambridge, UK, 2 edition, 2009. ISBN 978-0-52189560-6. doi: 10.1017/CBO9780511803161.
+1. **Causality**, *Cambridge University Press, Cambridge, UK, 2 edition, 2009* [[book](https://doi.org/10.1145/3501714.3501743)]
 
-2. Elias Bareinboim, Juan D. Correa, Duligur Ibeling, and Thomas Icard. 2022. On Pearl’s Hierarchy and the Foundations of Causal Inference. Probabilistic and Causal Inference: The Works of Judea Pearl (1st ed.). Association for Computing Machinery, New York, NY, USA, 507–556. https://doi.org/10.1145/3501714.3501743
+2. **On Pearl’s Hierarchy and the Foundations of Causal Inference**, *Probabilistic and Causal Inference: The Works of Judea Pearl 2022* [[paper](https://doi.org/10.1145/3501714.3501743)]
 
-3. Jonas Peters, Dominik Janzing, and Bernhard Schlkopf. Elements of Causal Inference: Foundations and Learning Algorithms. The MIT Press, 2017. ISBN 0262037319.
+3. **Elements of Causal Inference: Foundations and Learning Algorithms** *The MIT Press 2017* [[book](https://mitpress.mit.edu/9780262037310/elements-of-causal-inference/)]
 
 
 ### Independent Component Analysis 
