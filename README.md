@@ -24,7 +24,7 @@ url={https://openreview.net/forum?id=PUpZXvNqmb},
 
 2. **On Pearl’s Hierarchy and the Foundations of Causal Inference**, *Probabilistic and Causal Inference: The Works of Judea Pearl 2022* [[paper](https://doi.org/10.1145/3501714.3501743)]
 
-3. **Elements of Causal Inference: Foundations and Learning Algorithms** *The MIT Press 2017* [[book](https://mitpress.mit.edu/9780262037310/elements-of-causal-inference/)]
+3. **Elements of Causal Inference: Foundations and Learning Algorithms**, *The MIT Press 2017* [[book](https://mitpress.mit.edu/9780262037310/elements-of-causal-inference/)]
 
 
 ### Independent Component Analysis 
@@ -45,6 +45,9 @@ url={https://openreview.net/forum?id=PUpZXvNqmb},
 8. **Generalizing nonlinear ICA beyond structural sparsity**, *NeurIPS 2023* [[paper](https://arxiv.org/abs/2311.00866)]
 
 9. **Disentanglement via mechanism sparsity regularization: A new principle for nonlinear ICA**, *CLeaR 2022* [[paper](https://arxiv.org/abs/2107.10098)]
+
+### Identifiability in Generative Models
+1. **Indeterminacy in Generative Models: Characterization and Strong Identifiability**, *AISTATS 2023* [[paper](https://arxiv.org/abs/2206.00801)]
 
 ### Disentangled Representation Learning
 1. **Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations**, *ICML 2019* [[paper](https://arxiv.org/abs/1811.12359)]
