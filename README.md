@@ -46,9 +46,11 @@ url={https://openreview.net/forum?id=PUpZXvNqmb},
 
 3. **Weakly-supervised Disentanglement Without Compromises**, *ICML 2020* [[paper](https://arxiv.org/abs/2002.02886)]
 
-4. **Embrace the Gap: VAEs Perform Independent Mechanism Analysis**, *NeurIPS 2022* [[paper](https://arxiv.org/abs/2206.02416)]
+4. **On Disentangled Representations Learned From Correlated Data**, *ICML 2021* [[paper](https://arxiv.org/abs/2006.07886)]
 
-5. **Synergies between disentanglement and sparsity: Generalization and identifiability in multi-task learning**, *ICML 2023* [[paper](https://proceedings.mlr.press/v202/lachapelle23a.html)]
+5. **Embrace the Gap: VAEs Perform Independent Mechanism Analysis**, *NeurIPS 2022* [[paper](https://arxiv.org/abs/2206.02416)]
+
+6. **Synergies between disentanglement and sparsity: Generalization and identifiability in multi-task learning**, *ICML 2023* [[paper](https://proceedings.mlr.press/v202/lachapelle23a.html)]
 
 ## Causal Representation Learning (CRL)
 ### Observational
