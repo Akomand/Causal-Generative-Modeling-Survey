@@ -169,7 +169,20 @@ url={https://openreview.net/forum?id=PUpZXvNqmb},
 ## Evaluation Metrics
 ### Causal Representation Learning/Disentanglement
 
+**Disentanglement, Completeness, and Informativeness (DCI)** 
+- **A Framework for the Quantitative Evaluation of Disentangled Representations**, *ICLR 2018* [[paper](https://openreview.net/forum?id=By-7dz-AZ)]
+- **DCI-ES: An Extended Disentanglement Framework with Connections to Identifiability**, *ICLR 2023* [[paper](https://arxiv.org/abs/2210.00364)]
 
+**Interventional Robustness Score (IRS)**
+- **Robustly disentangled causal mechanisms: Validating deep representations for interventional robustness**, *ICML 2019* [[paper](https://arxiv.org/abs/1811.00007)]
+
+**Mean Correlation Coefficient (MCC)**
+
+**Mutual Information Gap (MIG)**
+- **Isolating sources of disentanglement in variational autoencoders**, *NeurIPS 2018* [[paper](https://arxiv.org/abs/1802.04942)]
+
+**Causal Disentanglement Score (CDS)**
+- **Exploring the Latent Space of Autoencoders with Interventional Assays**, *NeurIPS 2022* [[paper](https://arxiv.org/abs/2106.16091)]
 
 
 ### Counterfactual Generation
