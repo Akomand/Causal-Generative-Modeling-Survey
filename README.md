@@ -20,7 +20,35 @@ url={https://openreview.net/forum?id=PUpZXvNqmb},
 
 ## Preliminaries
 
-### Nonlinear-ICA and Disentangled Representation Learning
+### Independent Component Analysis 
+1. **Analyse générale des liaisons stochastiques: etude particulière de l’analyse factorielle linéaire**, *Review of the International Statistical Institute 1953* [[paper](https://www.jstor.org/stable/1401511)]
+   
+2. **Independent component analysis, a new concept?** *Signal Processing 1994* [[paper](https://www.sciencedirect.com/science/article/abs/pii/0165168494900299)]
+   
+3. **Nonlinear Independent Component Analysis: Existence and Uniqueness Results**, *Neural Networks 1999* [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608098001403)]
+
+4. **Nonlinear ICA using Auxiliary Variables and Generalized Contrastive Learning**, *AISTATS 2019* [[paper](https://arxiv.org/abs/1805.08651)]
+
+5. **The Incomplete Rosetta Stone Problem: Identifiability Results for Multi-View Nonlinear ICA**, *UAI 2019* [[paper](https://arxiv.org/abs/1905.06642)]
+
+6. **Independent mechanism analysis, a new concept?**, *NeurIPS 2021* [[paper](https://arxiv.org/abs/2106.05200)]
+
+7. **On the identifiability of nonlinear ICA: Sparsity and beyond**, *NeurIPS 2022* [[paper](https://arxiv.org/abs/2206.07751)]
+
+8. **Generalizing nonlinear ICA beyond structural sparsity**, *NeurIPS 2023* [[paper](https://arxiv.org/abs/2311.00866)]
+
+9. **Disentanglement via mechanism sparsity regularization: A new principle for nonlinear ICA**, *CLeaR 2022* [[paper](https://arxiv.org/abs/2107.10098)]
+
+### Disentangled Representation Learning
+1. **Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations**, *ICML 2019* [[paper](https://arxiv.org/abs/1811.12359)]
+
+2. **Variational Autoencoders and Nonlinear ICA: A Unifying Framework**, *AISTATS 2020* [[paper](https://arxiv.org/abs/1907.04809)]
+
+3. **Weakly-supervised Disentanglement Without Compromises**, *ICML 2020* [[paper](https://arxiv.org/abs/2002.02886)]
+
+4. **Embrace the Gap: VAEs Perform Independent Mechanism Analysis**, *NeurIPS 2022* [[paper](https://arxiv.org/abs/2206.02416)]
+
+5. **Synergies between disentanglement and sparsity: Generalization and identifiability in multi-task learning**, *ICML 2023* [[paper](https://proceedings.mlr.press/v202/lachapelle23a.html)]
 
 ## Causal Representation Learning (CRL)
 ### Observational
