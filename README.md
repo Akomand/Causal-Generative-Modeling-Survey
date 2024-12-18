@@ -176,7 +176,7 @@ url={https://openreview.net/forum?id=PUpZXvNqmb},
 
 9. **Causal Diffusion Autoencoders: Toward Counterfactual Generation via Diffusion Probabilistic Models**, *ECAI 2024* [[paper](https://arxiv.org/abs/2404.17735)]*
 
-10. **Modeling Causal Mechanisms with Diffusion Models for Interventional and Counterfactual Queries**, arXiv [[paper](https://arxiv.org/abs/2302.00860)]
+10. **Modeling Causal Mechanisms with Diffusion Models for Interventional and Counterfactual Queries**, *TMLR 2024* [[paper](https://arxiv.org/abs/2302.00860)]
 
 ## Evaluation Metrics
 ### Causal Representation Learning/Disentanglement
