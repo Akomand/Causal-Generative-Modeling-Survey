@@ -64,7 +64,7 @@ url={https://openreview.net/forum?id=PUpZXvNqmb},
 
 ## Causal Representation Learning (CRL)
 ### Observational
-
+#### Static
 1. **CausalVAE: Disentangled Representation Learning via Neural Structural Causal Models**, *CVPR 2021* [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_CausalVAE_Disentangled_Representation_Learning_via_Neural_Structural_Causal_Models_CVPR_2021_paper.html)]
   
 2. **Weakly Supervised Disentangled Generative Causal Representation Learning**, *JMLR 2022* [[paper](https://arxiv.org/abs/2010.02637)]
@@ -91,6 +91,7 @@ url={https://openreview.net/forum?id=PUpZXvNqmb},
 
 13. **Identifiability Guarantees for Causal Disentanglement from Purely Observational Data**, *NeurIPS 2024* [[paper]()]*
 
+#### Temporal
 14. **Learning Temporally Causal Latent Processes from General Temporal Data**, *ICLR 2022* [[paper](https://openreview.net/forum?id=RDlLMjLJXdq)]
 
 15. **Temporally Disentangled Representation Learning**, *NeurIPS 2022* [[paper](https://openreview.net/forum?id=Vi-sZWNA_Ue)]
@@ -101,7 +102,7 @@ url={https://openreview.net/forum?id=PUpZXvNqmb},
 
    
 ### Interventional
-
+#### Static
 18. **Interventional Causal Representation Learning**, *ICML 2023* [[paper](https://arxiv.org/abs/2209.11924)]
 
 19. **Linear Causal Disentanglement via Interventions**, *ICML 2023* [[paper](https://arxiv.org/abs/2211.16467)]
@@ -118,6 +119,7 @@ url={https://openreview.net/forum?id=PUpZXvNqmb},
 
 25. **General Identifiability and Achievability for Causal Representation Learning**, *AISTATS 2024* [[paper](https://proceedings.mlr.press/v238/varici24a.html)]
 
+#### Temporal 
 26. **CITRIS: Causal Identifiability for Temporal Intervened Sequences**, *ICML 2022* [[paper](https://arxiv.org/abs/2202.03169)]
 
 27. **Causal Representation Learning for Instantaneous and Temporal Effects in Interactive Systems**, *ICLR 2023* [[paper](https://arxiv.org/abs/2206.06169)]
