@@ -81,7 +81,7 @@ url={https://openreview.net/forum?id=PUpZXvNqmb},
 
 8. **Learning Linear Causal Representations from General Environments: Identifiability and Intrinsic Ambiguity**, *NeurIPS 2024* [[paper](https://arxiv.org/abs/2311.12267)]*
 
-9. **Identifying General Mechanism Shifts in Linear Causal Representations**, *NeurIPS 2024* [[paper]()]*
+9. **Identifying General Mechanism Shifts in Linear Causal Representations**, *NeurIPS 2024* [[paper](https://arxiv.org/abs/2410.24059)]*
 
 10. **Multi-Domain Causal Representation Learning via Weak Distributional Invariances**, *AISTATS 2024* [[paper](https://proceedings.mlr.press/v238/ahuja24a.html)]
 
@@ -89,55 +89,63 @@ url={https://openreview.net/forum?id=PUpZXvNqmb},
 
 12. **A Sparsity Principle for Partially Observable Causal Representation Learning**, *ICML 2024* [[paper](https://proceedings.mlr.press/v235/xu24ac.html)]
 
-13. **Identifiability Guarantees for Causal Disentanglement from Purely Observational Data**, *NeurIPS 2024* [[paper]()]*
+13. **Identifiability Guarantees for Causal Disentanglement from Purely Observational Data**, *NeurIPS 2024* [[paper](https://arxiv.org/abs/2410.23620)]*
+
+14. **From Causal to Concept-Based Representation Learning**, *NeurIPS 2024* [[paper](https://openreview.net/forum?id=FcVnIBYbkW)]
 
 #### Temporal
-14. **Learning Temporally Causal Latent Processes from General Temporal Data**, *ICLR 2022* [[paper](https://openreview.net/forum?id=RDlLMjLJXdq)]
+15. **Learning Temporally Causal Latent Processes from General Temporal Data**, *ICLR 2022* [[paper](https://openreview.net/forum?id=RDlLMjLJXdq)]
 
-15. **Temporally Disentangled Representation Learning**, *NeurIPS 2022* [[paper](https://openreview.net/forum?id=Vi-sZWNA_Ue)]
+16. **Temporally Disentangled Representation Learning**, *NeurIPS 2022* [[paper](https://openreview.net/forum?id=Vi-sZWNA_Ue)]
 
-16. **Temporally Disentangled Representation Learning under Unknown Nonstationarity**, *NeurIPS 2023* [[paper](https://openreview.net/forum?id=V8GHCGYLkf&noteId=jgG1mMzOkD)]
+17. **Temporally Disentangled Representation Learning under Unknown Nonstationarity**, *NeurIPS 2023* [[paper](https://openreview.net/forum?id=V8GHCGYLkf&noteId=jgG1mMzOkD)]
 
-17. **CaRiNG: Learning Temporal Causal Representation under Non-Invertible Generation Process**, *ICML 2024* [[paper](https://proceedings.mlr.press/v235/chen24ai.html)]*
+18. **CaRiNG: Learning Temporal Causal Representation under Non-Invertible Generation Process**, *ICML 2024* [[paper](https://proceedings.mlr.press/v235/chen24ai.html)]*
+
+19. **Causal Temporal Representation Learning with Nonstationary Sparse Transition**, *NeurIPS 2024*, [[paper](https://arxiv.org/abs/2409.03142)]*
 
    
 ### Interventional
 #### Static
-18. **Interventional Causal Representation Learning**, *ICML 2023* [[paper](https://arxiv.org/abs/2209.11924)]
+20. **Interventional Causal Representation Learning**, *ICML 2023* [[paper](https://arxiv.org/abs/2209.11924)]
 
-19. **Linear Causal Disentanglement via Interventions**, *ICML 2023* [[paper](https://arxiv.org/abs/2211.16467)]
+21. **Linear Causal Disentanglement via Interventions**, *ICML 2023* [[paper](https://arxiv.org/abs/2211.16467)]
 
-20. **Learning Linear Causal Representations from Interventions under General Nonlinear Mixing**, *NeurIPS 2023* [[paper](https://arxiv.org/abs/2306.02235)]
+22. **Learning Linear Causal Representations from Interventions under General Nonlinear Mixing**, *NeurIPS 2023* [[paper](https://arxiv.org/abs/2306.02235)]
 
-21. **Identifiability Guarantees for Causal Disentanglement from Soft Interventions**, *NeurIPS 2023* [[paper](https://arxiv.org/abs/2307.06250)]
+23. **Identifiability Guarantees for Causal Disentanglement from Soft Interventions**, *NeurIPS 2023* [[paper](https://arxiv.org/abs/2307.06250)]
 
-22. **Causal Component Analysis**, *NeurIPS 2023* [[paper](https://arxiv.org/abs/2305.17225)]
+24. **Causal Component Analysis**, *NeurIPS 2023* [[paper](https://arxiv.org/abs/2305.17225)]
     
-23. **Nonparametric Identifiability of Causal Representations from Unknown Interventions**, *NeurIPS 2023* [[paper](https://arxiv.org/abs/2306.00542)]
+25. **Nonparametric Identifiability of Causal Representations from Unknown Interventions**, *NeurIPS 2023* [[paper](https://arxiv.org/abs/2306.00542)]
 
-24. **Score-based Causal Representation Learning From Interventions**, *CRL@NeurIPS 2023* [[paper](https://openreview.net/forum?id=MytNJ6lXAV)]
+26. **Score-based Causal Representation Learning From Interventions**, *CRL@NeurIPS 2023* [[paper](https://openreview.net/forum?id=MytNJ6lXAV)]
 
-25. **General Identifiability and Achievability for Causal Representation Learning**, *AISTATS 2024* [[paper](https://proceedings.mlr.press/v238/varici24a.html)]
+27. **General Identifiability and Achievability for Causal Representation Learning**, *AISTATS 2024* [[paper](https://proceedings.mlr.press/v238/varici24a.html)]
+
+28. **Identifying Linearly-Mixed Causal Representations from Multi-Node Interventions**, *CLeaR 2024* [[paper](https://arxiv.org/abs/2311.02695)]
+
+29. **Linear Causal Representation Learning from Unknown Multi-node Interventions**, *NeurIPS 2024* [[paper](https://arxiv.org/abs/2406.05937)]*
+
+30. **Sample Complexity for Interventional Causal Representation Learning**, *NeurIPS 2024* [[paper](https://openreview.net/forum?id=XL9aaXl0u6&noteId=0uxPDmh1nn)]*
 
 #### Temporal 
-26. **CITRIS: Causal Identifiability for Temporal Intervened Sequences**, *ICML 2022* [[paper](https://arxiv.org/abs/2202.03169)]
+31. **CITRIS: Causal Identifiability for Temporal Intervened Sequences**, *ICML 2022* [[paper](https://arxiv.org/abs/2202.03169)]
 
-27. **Causal Representation Learning for Instantaneous and Temporal Effects in Interactive Systems**, *ICLR 2023* [[paper](https://arxiv.org/abs/2206.06169)]
+32. **Causal Representation Learning for Instantaneous and Temporal Effects in Interactive Systems**, *ICLR 2023* [[paper](https://arxiv.org/abs/2206.06169)]
 
-28. **BISCUIT: Causal Representation Learning from Binary Interactions**, *UAI 2023* [[paper](https://proceedings.mlr.press/v216/lippe23a.html)]
+33. **BISCUIT: Causal Representation Learning from Binary Interactions**, *UAI 2023* [[paper](https://proceedings.mlr.press/v216/lippe23a.html)]
 
-29. **Disentanglement via Mechanism Sparsity Regularization: A New Principle for Nonlinear ICA**, *CLeaR 2022* [[paper](https://arxiv.org/abs/2107.10098)]
-
-30. **Identifying Linearly-Mixed Causal Representations from Multi-Node Interventions**, *CLeaR 2024* [[paper](https://arxiv.org/abs/2311.02695)]
-
-31. **Linear Causal Representation Learning from Unknown Multi-node Interventions**, *NeurIPS 2024* [[paper](https://arxiv.org/abs/2406.05937)]*
+34. **Disentanglement via Mechanism Sparsity Regularization: A New Principle for Nonlinear ICA**, *CLeaR 2022* [[paper](https://arxiv.org/abs/2107.10098)]
 
 
 ### Counterfactual
 
-32. **Self-Supervised Learning with Data Augmentations Provably Isolates Content from Style**, *NeurIPS 2021* [[paper](https://arxiv.org/abs/2106.04619)]
+35. **Self-Supervised Learning with Data Augmentations Provably Isolates Content from Style**, *NeurIPS 2021* [[paper](https://arxiv.org/abs/2106.04619)]
 
-33. **Weakly supervised causal representation learning**, *NeurIPS 2022* [[paper](https://arxiv.org/abs/2203.16437)]
+36. **Weakly supervised causal representation learning**, *NeurIPS 2022* [[paper](https://arxiv.org/abs/2203.16437)]
+
+37. **Diffusion-based Causal Representation Learning**, *Entropy 2024* [[paper](https://www.mdpi.com/1099-4300/26/7/556)]
 
 
 ## Controllable Counterfactual Generation (CCG)
@@ -219,5 +227,7 @@ url={https://openreview.net/forum?id=PUpZXvNqmb},
 
 **Marrying Causal Representation Learning with Dynamical Systems for Science**, *NeurIPS 2024* [[paper](https://arxiv.org/abs/2405.13888)]*
 
-**Learning Identifiable Factorized Causal Representations of Cellular Responses**, *NeurIPS 2024* [[paper]()]*
+**Learning Identifiable Factorized Causal Representations of Cellular Responses**, *NeurIPS 2024* [[paper](https://arxiv.org/abs/2410.22472)]*
+
+####
 
